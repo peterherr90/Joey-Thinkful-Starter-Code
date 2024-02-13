@@ -1,1 +1,1 @@
-# Joey-Thinkful-Starter-Code.
+# Joey-Thinkful-Starter-Code
